@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="12a40260-1649-46d9-9698-a7e8af1c32e3" name="Default Changelist" comment="" />
+    <list default="true" id="12a40260-1649-46d9-9698-a7e8af1c32e3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/004_Calculator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +17,13 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1VLxSWPR3NckNXFntDBXcqk3bvP" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -24,7 +33,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
   </component>
-  <component name="RunManager" selected="Python.003_for">
+  <component name="RunManager" selected="Python.004_Calculator">
     <configuration name="002_While" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonStudies" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -73,6 +82,9 @@
       <module name="PythonStudies" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -88,13 +100,32 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="004_Calculator" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonStudies" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/004_Calculator.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.003_for" />
-        <item itemvalue="Python.003_for" />
-        <item itemvalue="Python.003_for" />
-        <item itemvalue="Python.003_for" />
-        <item itemvalue="Python.003_for" />
+        <item itemvalue="Python.004_Calculator" />
+        <item itemvalue="Python.004_Calculator" />
+        <item itemvalue="Python.004_Calculator" />
+        <item itemvalue="Python.004_Calculator" />
+        <item itemvalue="Python.004_Calculator" />
       </list>
     </recent_temporary>
   </component>
@@ -123,6 +154,7 @@
       <workItem from="1577046214490" duration="1497000" />
       <workItem from="1577132990069" duration="1367000" />
       <workItem from="1577139114923" duration="729000" />
+      <workItem from="1577223043824" duration="729000" />
     </task>
     <servers />
   </component>
@@ -166,10 +198,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1577134358874" />
-    <state x="668" y="349" key="com.intellij.ide.util.TipDialog" timestamp="1577139133806">
+    <state x="668" y="349" key="com.intellij.ide.util.TipDialog" timestamp="1577223056158">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="668" y="349" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1577139133806" />
+    <state x="668" y="349" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1577223056158" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
